@@ -15,6 +15,10 @@ body {
     overflow: hidden;
     perspective: 1000px;
 }
+.white{
+    color: white;
+    font-size: 28px;
+}
 .night {
     position: fixed;
     left: 50%;
